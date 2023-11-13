@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412955784411",
+    "project_id": "al-madina-app",
+    "storage_bucket": "al-madina-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412955784411:android:8e962ab504da712e0ec8fe",
+        "android_client_info": {
+          "package_name": "com.example.al_madina_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa62KxlUv4piVlgzbimPKcMQ0vMcewYZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
